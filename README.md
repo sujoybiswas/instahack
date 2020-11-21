@@ -7,8 +7,7 @@
 
 INSTA is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/ighack.svg)](https://github.com/evildevill/instahack)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/ighack.svg)](https://github.com/evildevill/instahack)
+
 [![License: MIT](https://img.shields.io/github/license/noob-hackers/ighack.svg)](https://github.com/evildevill/instahack)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#instahack)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -29,7 +28,7 @@ $ pkg install python -y
 $ pkg install python2 -y
 $ pkg install git -y
 $ pip install lolcat
-$ git clone https://github.com/sujoybiswas /instahack
+$ git clone https://github.com/sujoybiswas/instahack
 $ ls
 $ cd instahack
 $ ls
